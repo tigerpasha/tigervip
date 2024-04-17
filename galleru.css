@@ -1,0 +1,165 @@
+html{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(https://cdn.discordapp.com/attachments/1229554922739990618/1229578140322500699/Untitled_video_-_Made_with_Clipchamp.gif?ex=663030e1&is=661dbbe1&hm=bd00fdbf9c29731b2f58d79e3cbd8c03099502403e9dc6988347a9eaf0f7a6bb&) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  .main-btn {
+    color: #ecdd00;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.9375em 2.1875em;
+    letter-spacing: 13px;
+    border-radius: 15px;
+    margin-bottom: -136px;
+    transition: 0.7s ease;
+    BORDER: SOLID BLACK;
+    MARGIN-LEFT: 205%;
+
+  }
+  
+  .main-btn:hover {
+      background-color: #ffffff;
+      transform: scale(1.1);
+  }
+ h2 {
+    padding-top: 22px;
+    display: inline-block;
+    color: rgb(255, 0, 0);
+    font-size: 3em;
+    font-weight: 600;
+    padding-left: 321px;
+    font-family: Poppins, sans-serif;
+ }
+
+ h2 span{
+    display: inline-block;
+    margin-top: 10px;
+    color: #ecdd00;
+    font-size: 3em;
+    font-weight: 600;
+    PADDING-LEFT: 14PX;
+    font-family: 'Poppins', sans-serif;
+    text-shadow: -7px -1px 27px white;
+}
+
+    h3{
+        padding-top: 22px;
+        display: inline-block;
+        color: #ecdd00;
+        font-size: 3em;
+        font-weight: 600;
+        padding-left: 321px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+     h3 span{
+        display: inline-block;
+        margin-top: 10px;
+        color: #ecdd00;
+        font-size: 3em;
+        font-weight: 600;
+        padding-left: 108px
+        font-family: 'Poppins', sans-serif;
+        text-shadow: -7px -1px 27px white;
+}
+
+
+   #imagewin{
+    padding-bottom: 50px;
+    width: 500px;
+    vertical-align: middle;
+    max-width: 100%;
+    display: inline-block;  
+    Margin-left: 1100px;
+    padding-left: 239px;
+    transition: 1s;}
+    #imagewin:hover{
+        transform: scale(1.034)}
+    #imagewin2{
+        padding-bottom: 50px;
+        width: 500px;
+        padding-right: -37px;
+        vertical-align: middle;
+        max-width: 100%;
+        display: inline-block;
+        margin-right: 1200px;
+        transition: 1s;}
+        #imagewin2:hover{
+            transform: scale(1.034)}
+    #imagewin3{
+        padding-bottom: 50px;
+    width: 500px;
+    padding-right: 164px;
+    vertical-align: middle;
+    max-width: 100%;
+    display: inline-block; transition: 1s;}
+    #imagewin3:hover{
+        transform: scale(1.034)}
+        #imagewin4{
+            padding-bottom: 50px;
+    width: 586px;
+    vertical-align: middle;
+    max-width: 100%;
+    display: inline-block;
+    margin-left: 1250px;
+    transition: 1s;}
+    #imagewin4:hover{
+        transform: scale(1.034)}
+            #imagewin5{padding-top: 0px;
+                width: 500px;
+                margin-right: 1200px;
+                padding-left: 35px;
+                vertical-align: middle;
+                max-width: 100%;
+                display: inline-block;
+                transition: 1s;}
+                #imagewin5:hover{
+                    transform: scale(1.034)}
+        #imagewin6 {
+            width: 550px;
+            margin-left: 1291px;
+                vertical-align: left;
+                max-width: 100%;
+                display: inline-block;
+                transition: 1s;}
+                #imagewin6:hover{
+                    transform: scale(1.034)}
+        #imagewin7{
+            width: 500px;
+            padding-left: 35px;
+            padding-right: 0px;
+            margin-right: 120;
+            margin-right: 1153px;
+                vertical-align: left;
+                max-width: 100%;
+                display: inline-block;
+                transition: 1s;}
+                #imagewin7:hover{
+                    transform: scale(1.034)}
+        #imagewin8{
+            width: 583px;
+            border-left-width: 1200px;
+            margin-left: 1273px;
+            padding-right: 11px;
+                vertical-align: left;
+                max-width: 100%;
+                display: inline-block;
+                transition: 1s;}
+                #imagewin8:hover{
+                    transform: scale(1.034)}
+                    .video{width: 344px;
+                        margin-left: 331px;
+                    }
+                    .video1{width: 344px;
+                        margin-left: 0px;
+                    }
+                    .video2{width: 344px;
+                        margin-left: 0px;
+                    }
